@@ -1,0 +1,7 @@
+email,password,name,address,contact,status,role
+admin@gmail.com,Admin_123,Admin,Unknown,0.0,verified,admin
+halo@gmail.com,Halo_123,Halo,Unknown,98528135127.0,verified,reseller
+p@gmail.com,P1@gmail.com,p,p,0.0,unverified,reseller
+v@gmail.com,Vvvvv_1,v,v,9867544667.0,verified,reseller
+jnt@gmail.com,Jnt_1234,JNT,Sumput,897665634.0,verified,jasa pengiriman
+k@gmil.com,Monyet123_,karim,Wringinanom,98763847563.0,verified,reseller

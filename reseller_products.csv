@@ -1,0 +1,10 @@
+email,product_name,quantity,price,status,total_harga
+halo@gmail.com,Sneaker A,4,120000.0,delivered,600000.0
+halo@gmail.com,Boot B,2,200000.0,delivered,600000.0
+halo@gmail.com,Flip Flop C,1,50000.0,delivered,50000.0
+halo@gmail.com,Boots,1,250000.0,delivered,250000.0
+halo@gmail.com,Posse,5,490000.0,delivered,2450000.0
+halo@gmail.com,Posse,1,98000.0,delivered,98000.0
+halo@gmail.com,Swallow,5,10000.0,unpacked,50000.0
+k@gmil.com,Posse,5,98000.0,unpacked,490000.0
+k@gmil.com,Boots,6,250000.0,delivered,1500000.0
